@@ -1,0 +1,12 @@
+{
+    "ID": "083BDF8D59824803A27AF386C03CC65F",
+    "ActionKeyword": "ep",
+    "Name": "EdgeProfiles",
+    "Description": "Launch and switch between Edge profiles",
+    "Author": "RonnyAL",
+    "Version": "0.0.1",
+    "Language": "csharp",
+    "Website": "https://github.com/RonnyAL/Flow.Launcher.Plugin.EdgeProfiles",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.EdgeProfiles.dll"
+}
