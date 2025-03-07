@@ -11,7 +11,7 @@ A plugin for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher).
 ## Installation
 Open Flow Launcher and run this query.
 ```
-pm install https://github.com/RonnyAL/Flow.Launcher.Plugin.EdgeProfiles
+pm install https://github.com/RonnyAL/Flow.Launcher.Plugin.EdgeProfiles/releases/download/v1.0.0/EdgeProfiles.zip
 ```
 
 ## Usage
